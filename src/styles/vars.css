@@ -1,0 +1,15 @@
+:root {
+    --color-background: #000;
+    --color-sidebar: #121212;
+    --color-section: #242424;
+    --color-text-primary: #b3b3b3;
+    --color-text-secondary: #fff;
+    --bg-main-color: #131313;
+    --bg-main-arrow-color: rgba(0, 0, 0, 7);
+
+    --font-size-small: 12px;
+    --font-size-medium: 14px;
+    --font-size-large: 16px;
+    --font-size-icon: 20px;
+    --font-dm-sans: "DM Sans", sans-serif;
+}
